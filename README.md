@@ -2,7 +2,7 @@
 
 Geography-guessing game. 
 
-https://cityle.jakedolan.net
+https://cityle.io
 
 # About
 
